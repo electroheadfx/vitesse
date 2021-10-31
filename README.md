@@ -90,7 +90,7 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
-- [**vitesse**](https://github.com/antfu/vitesse) - Lightweight version of Vitesse
+- [**vitesse**](https://github.com/antfu/vitesse) - Vitesse any Opinionated Vite Starter Template by Anthony Fu
 - [**vitesse-lite**](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse
 - [**vitesse-webext**](https://github.com/antfu/vitesse-webext) - WebExtension Vite starter template
 - [vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse experience for Nuxt 2

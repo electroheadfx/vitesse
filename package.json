@@ -1,4 +1,7 @@
 {
+  "name": "efx/vitesse",
+  "version": "1.0.0",
+  "description": "efx repo from Anthony Fu @antfu : https://github.com/antfu/vitesse",
   "private": true,
   "scripts": {
     "build": "cross-env NODE_ENV=production vite-ssg build",
